@@ -1,0 +1,6 @@
+D:\myCode\CSharp\test\Clone\bin\Debug\Clone.exe.config
+D:\myCode\CSharp\test\Clone\bin\Debug\Clone.exe
+D:\myCode\CSharp\test\Clone\bin\Debug\Clone.pdb
+D:\myCode\CSharp\test\Clone\obj\Debug\Clone.csprojResolveAssemblyReference.cache
+D:\myCode\CSharp\test\Clone\obj\Debug\Clone.exe
+D:\myCode\CSharp\test\Clone\obj\Debug\Clone.pdb

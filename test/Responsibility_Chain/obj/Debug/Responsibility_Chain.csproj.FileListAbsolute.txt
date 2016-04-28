@@ -1,0 +1,6 @@
+D:\myCode\CSharp\test\Responsibility_Chain\bin\Debug\Responsibility_Chain.exe.config
+D:\myCode\CSharp\test\Responsibility_Chain\bin\Debug\Responsibility_Chain.exe
+D:\myCode\CSharp\test\Responsibility_Chain\bin\Debug\Responsibility_Chain.pdb
+D:\myCode\CSharp\test\Responsibility_Chain\obj\Debug\Responsibility_Chain.csprojResolveAssemblyReference.cache
+D:\myCode\CSharp\test\Responsibility_Chain\obj\Debug\Responsibility_Chain.exe
+D:\myCode\CSharp\test\Responsibility_Chain\obj\Debug\Responsibility_Chain.pdb

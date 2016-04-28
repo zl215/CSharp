@@ -1,0 +1,9 @@
+D:\myCode\CSharp\test\MallCash\bin\Debug\MallCash.exe.config
+D:\myCode\CSharp\test\MallCash\bin\Debug\MallCash.exe
+D:\myCode\CSharp\test\MallCash\bin\Debug\MallCash.pdb
+D:\myCode\CSharp\test\MallCash\obj\Debug\MallCash.csprojResolveAssemblyReference.cache
+D:\myCode\CSharp\test\MallCash\obj\Debug\MallCash.Properties.Resources.resources
+D:\myCode\CSharp\test\MallCash\obj\Debug\MallCash.csproj.GenerateResource.Cache
+D:\myCode\CSharp\test\MallCash\obj\Debug\MallCash.exe
+D:\myCode\CSharp\test\MallCash\obj\Debug\MallCash.pdb
+D:\myCode\CSharp\test\MallCash\obj\Debug\MallCash.frmMain.resources

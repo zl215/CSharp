@@ -1,0 +1,6 @@
+D:\myCode\CSharp\test\Decorator\bin\Debug\Decorator.exe.config
+D:\myCode\CSharp\test\Decorator\bin\Debug\Decorator.exe
+D:\myCode\CSharp\test\Decorator\bin\Debug\Decorator.pdb
+D:\myCode\CSharp\test\Decorator\obj\Debug\Decorator.csprojResolveAssemblyReference.cache
+D:\myCode\CSharp\test\Decorator\obj\Debug\Decorator.exe
+D:\myCode\CSharp\test\Decorator\obj\Debug\Decorator.pdb

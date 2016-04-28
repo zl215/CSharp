@@ -1,0 +1,4 @@
+D:\myCode\CSharp\ExceptionCapture\ExceptionCapture\bin\Debug\ExceptionCapture.exe
+D:\myCode\CSharp\ExceptionCapture\ExceptionCapture\bin\Debug\ExceptionCapture.pdb
+D:\myCode\CSharp\ExceptionCapture\ExceptionCapture\obj\x86\Debug\ExceptionCapture.exe
+D:\myCode\CSharp\ExceptionCapture\ExceptionCapture\obj\x86\Debug\ExceptionCapture.pdb

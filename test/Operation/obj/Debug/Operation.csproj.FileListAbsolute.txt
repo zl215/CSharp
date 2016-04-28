@@ -1,0 +1,6 @@
+D:\myCode\CSharp\test\Operation\bin\Debug\Operation.exe.config
+D:\myCode\CSharp\test\Operation\bin\Debug\Operation.exe
+D:\myCode\CSharp\test\Operation\bin\Debug\Operation.pdb
+D:\myCode\CSharp\test\Operation\obj\Debug\Operation.csprojResolveAssemblyReference.cache
+D:\myCode\CSharp\test\Operation\obj\Debug\Operation.exe
+D:\myCode\CSharp\test\Operation\obj\Debug\Operation.pdb

@@ -1,0 +1,4 @@
+D:\myCode\CSharp\UnityTest\UnityTest\bin\Debug\UnityTest.exe
+D:\myCode\CSharp\UnityTest\UnityTest\bin\Debug\UnityTest.pdb
+D:\myCode\CSharp\UnityTest\UnityTest\obj\x86\Debug\UnityTest.exe
+D:\myCode\CSharp\UnityTest\UnityTest\obj\x86\Debug\UnityTest.pdb

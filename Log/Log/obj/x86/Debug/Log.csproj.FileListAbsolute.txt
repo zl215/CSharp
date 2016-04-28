@@ -1,0 +1,1 @@
+D:\myCode\CSharp\Log\Log\obj\x86\Debug\Log.csprojResolveAssemblyReference.cache
